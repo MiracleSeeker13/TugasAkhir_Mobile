@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas Akhir</string>
+    <string name="nama_sistem">Perpustakaan SMKN 1 Wanareja</string>
+    <string name="tentang">
+        Perpustakaan SMK N 1 Wanareja didirikan bersamaan dengan berdirinya SMK N 1 Wanareja pada tahun 2000 Yang beralamat di
+        Jl. Srikaya, Wanareja Kec. Wanareja, Kab. Cilacap, Jawa Tengah, Perpustakaan SMK N 1 Wanareja terletak dipusat sekolah
+        sehingga sangat strategis untuk dapat di akses oleh warga sekolah dan warga sekitar sekolah.
+    </string>
+    <string name="web">www.perpusnezawa.tect</string>
+    <string name="email">perpusnezawa@gmail.com</string>
+    <string name="fb">Perpus Nezawa</string>
+    <string name="twitter">perpusnezawa</string>
+    <string name="info1">Jam Operasional</string>
+    <string name="info2">Koleksi Buku</string>
+    <string name="info3">Pelayan Perpustakaan</string>
+    <string name="info4">Fasilitas Komputer</string>
+    <string name="buku">Terdapat Lebih Dari 100 Koleksi Buku tersedia</string>
+    <string name="pelayanan">Pelayanan Cepat Untuk Peminjaman dan Pengembalian Buku</string>
+    <string name="fasilitas">Media Membaca yang Lebih Luas Untuk Pengunjung Perpustakaan</string>
+</resources>
